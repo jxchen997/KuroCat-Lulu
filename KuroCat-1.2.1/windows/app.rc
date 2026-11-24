@@ -1,0 +1,11 @@
+#include "src/AppResources.h"
+
+1 24 "app.manifest"
+LICENSE_TEXT RCDATA "../LICENSE"
+ID_DAISY_SMILE RCDATA "daisy-art/smile.png"
+ID_DAISY_CLOSED RCDATA "daisy-art/closed.png"
+ID_DAISY_FRONT RCDATA "daisy-art/front.png"
+ID_DAISY_FRONT_BLINK RCDATA "daisy-art/front-blink.png"
+ID_DAISY_SEATED RCDATA "daisy-art/seated.png"
+ID_DAISY_FOREPAW RCDATA "daisy-art/forepaw.png"
+ID_LULU_TURNAROUND RCDATA "lulu-art/turnaround-reference.png"
